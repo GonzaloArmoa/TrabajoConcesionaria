@@ -1,0 +1,35 @@
+[
+   {
+      "marca": "Ford",
+      "modelo": "Fiesta",
+      "precio": 150000,
+      "km": 200,
+      "color": "Azul",
+      "cuotas": 12,
+      "anio": 2019,
+      "patente": "APL123",
+      "vendido": false
+   },
+   {
+      "marca": "Toyota",
+      "modelo": "Corola",
+      "precio": 100000,
+      "km": 20,
+      "color": "Blanco",
+      "cuotas": 14,
+      "anio": 2019,
+      "patente": "JJK116",
+      "vendido": true
+   },
+   {
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "precio": 550000,
+    "km": 1200,
+    "color": "Negro",
+    "cuotas": 48,
+    "anio": 2023,
+    "patente": "ANT125",
+    "vendido": true
+   }
+]
